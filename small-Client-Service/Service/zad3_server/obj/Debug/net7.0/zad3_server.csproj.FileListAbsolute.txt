@@ -1,0 +1,14 @@
+C:\Users\Hubert\Desktop\SEM_4\c#\labb6\zad3_server\bin\Debug\net7.0\zad3_server.exe
+C:\Users\Hubert\Desktop\SEM_4\c#\labb6\zad3_server\bin\Debug\net7.0\zad3_server.deps.json
+C:\Users\Hubert\Desktop\SEM_4\c#\labb6\zad3_server\bin\Debug\net7.0\zad3_server.runtimeconfig.json
+C:\Users\Hubert\Desktop\SEM_4\c#\labb6\zad3_server\bin\Debug\net7.0\zad3_server.dll
+C:\Users\Hubert\Desktop\SEM_4\c#\labb6\zad3_server\bin\Debug\net7.0\zad3_server.pdb
+C:\Users\Hubert\Desktop\SEM_4\c#\labb6\zad3_server\obj\Debug\net7.0\zad3_server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hubert\Desktop\SEM_4\c#\labb6\zad3_server\obj\Debug\net7.0\zad3_server.AssemblyInfoInputs.cache
+C:\Users\Hubert\Desktop\SEM_4\c#\labb6\zad3_server\obj\Debug\net7.0\zad3_server.AssemblyInfo.cs
+C:\Users\Hubert\Desktop\SEM_4\c#\labb6\zad3_server\obj\Debug\net7.0\zad3_server.csproj.CoreCompileInputs.cache
+C:\Users\Hubert\Desktop\SEM_4\c#\labb6\zad3_server\obj\Debug\net7.0\zad3_server.dll
+C:\Users\Hubert\Desktop\SEM_4\c#\labb6\zad3_server\obj\Debug\net7.0\refint\zad3_server.dll
+C:\Users\Hubert\Desktop\SEM_4\c#\labb6\zad3_server\obj\Debug\net7.0\zad3_server.pdb
+C:\Users\Hubert\Desktop\SEM_4\c#\labb6\zad3_server\obj\Debug\net7.0\zad3_server.genruntimeconfig.cache
+C:\Users\Hubert\Desktop\SEM_4\c#\labb6\zad3_server\obj\Debug\net7.0\ref\zad3_server.dll

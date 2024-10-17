@@ -1,0 +1,14 @@
+C:\Users\Hubert\Desktop\SEM_4\c#\labb6\obj\Debug\net7.0\labb6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hubert\Desktop\SEM_4\c#\labb6\obj\Debug\net7.0\labb6.AssemblyInfoInputs.cache
+C:\Users\Hubert\Desktop\SEM_4\c#\labb6\obj\Debug\net7.0\labb6.AssemblyInfo.cs
+C:\Users\Hubert\Desktop\SEM_4\c#\labb6\obj\Debug\net7.0\labb6.csproj.CoreCompileInputs.cache
+C:\Users\Hubert\Desktop\SEM_4\c#\labb6\bin\Debug\net7.0\labb6.exe
+C:\Users\Hubert\Desktop\SEM_4\c#\labb6\bin\Debug\net7.0\labb6.deps.json
+C:\Users\Hubert\Desktop\SEM_4\c#\labb6\bin\Debug\net7.0\labb6.runtimeconfig.json
+C:\Users\Hubert\Desktop\SEM_4\c#\labb6\bin\Debug\net7.0\labb6.dll
+C:\Users\Hubert\Desktop\SEM_4\c#\labb6\bin\Debug\net7.0\labb6.pdb
+C:\Users\Hubert\Desktop\SEM_4\c#\labb6\obj\Debug\net7.0\labb6.dll
+C:\Users\Hubert\Desktop\SEM_4\c#\labb6\obj\Debug\net7.0\refint\labb6.dll
+C:\Users\Hubert\Desktop\SEM_4\c#\labb6\obj\Debug\net7.0\labb6.pdb
+C:\Users\Hubert\Desktop\SEM_4\c#\labb6\obj\Debug\net7.0\labb6.genruntimeconfig.cache
+C:\Users\Hubert\Desktop\SEM_4\c#\labb6\obj\Debug\net7.0\ref\labb6.dll

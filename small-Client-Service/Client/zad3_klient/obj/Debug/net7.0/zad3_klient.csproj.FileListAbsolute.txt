@@ -1,0 +1,14 @@
+C:\Users\Hubert\Desktop\SEM_4\c#\lab6_klient\zad3_klient\bin\Debug\net7.0\zad3_klient.exe
+C:\Users\Hubert\Desktop\SEM_4\c#\lab6_klient\zad3_klient\bin\Debug\net7.0\zad3_klient.deps.json
+C:\Users\Hubert\Desktop\SEM_4\c#\lab6_klient\zad3_klient\bin\Debug\net7.0\zad3_klient.runtimeconfig.json
+C:\Users\Hubert\Desktop\SEM_4\c#\lab6_klient\zad3_klient\bin\Debug\net7.0\zad3_klient.dll
+C:\Users\Hubert\Desktop\SEM_4\c#\lab6_klient\zad3_klient\bin\Debug\net7.0\zad3_klient.pdb
+C:\Users\Hubert\Desktop\SEM_4\c#\lab6_klient\zad3_klient\obj\Debug\net7.0\zad3_klient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hubert\Desktop\SEM_4\c#\lab6_klient\zad3_klient\obj\Debug\net7.0\zad3_klient.AssemblyInfoInputs.cache
+C:\Users\Hubert\Desktop\SEM_4\c#\lab6_klient\zad3_klient\obj\Debug\net7.0\zad3_klient.AssemblyInfo.cs
+C:\Users\Hubert\Desktop\SEM_4\c#\lab6_klient\zad3_klient\obj\Debug\net7.0\zad3_klient.csproj.CoreCompileInputs.cache
+C:\Users\Hubert\Desktop\SEM_4\c#\lab6_klient\zad3_klient\obj\Debug\net7.0\zad3_klient.dll
+C:\Users\Hubert\Desktop\SEM_4\c#\lab6_klient\zad3_klient\obj\Debug\net7.0\refint\zad3_klient.dll
+C:\Users\Hubert\Desktop\SEM_4\c#\lab6_klient\zad3_klient\obj\Debug\net7.0\zad3_klient.pdb
+C:\Users\Hubert\Desktop\SEM_4\c#\lab6_klient\zad3_klient\obj\Debug\net7.0\zad3_klient.genruntimeconfig.cache
+C:\Users\Hubert\Desktop\SEM_4\c#\lab6_klient\zad3_klient\obj\Debug\net7.0\ref\zad3_klient.dll

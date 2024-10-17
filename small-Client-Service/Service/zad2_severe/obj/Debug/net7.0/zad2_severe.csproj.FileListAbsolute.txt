@@ -1,0 +1,14 @@
+C:\Users\Hubert\Desktop\SEM_4\c#\labb6\zad2_severe\bin\Debug\net7.0\zad2_severe.exe
+C:\Users\Hubert\Desktop\SEM_4\c#\labb6\zad2_severe\bin\Debug\net7.0\zad2_severe.deps.json
+C:\Users\Hubert\Desktop\SEM_4\c#\labb6\zad2_severe\bin\Debug\net7.0\zad2_severe.runtimeconfig.json
+C:\Users\Hubert\Desktop\SEM_4\c#\labb6\zad2_severe\bin\Debug\net7.0\zad2_severe.dll
+C:\Users\Hubert\Desktop\SEM_4\c#\labb6\zad2_severe\bin\Debug\net7.0\zad2_severe.pdb
+C:\Users\Hubert\Desktop\SEM_4\c#\labb6\zad2_severe\obj\Debug\net7.0\zad2_severe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hubert\Desktop\SEM_4\c#\labb6\zad2_severe\obj\Debug\net7.0\zad2_severe.AssemblyInfoInputs.cache
+C:\Users\Hubert\Desktop\SEM_4\c#\labb6\zad2_severe\obj\Debug\net7.0\zad2_severe.AssemblyInfo.cs
+C:\Users\Hubert\Desktop\SEM_4\c#\labb6\zad2_severe\obj\Debug\net7.0\zad2_severe.csproj.CoreCompileInputs.cache
+C:\Users\Hubert\Desktop\SEM_4\c#\labb6\zad2_severe\obj\Debug\net7.0\zad2_severe.dll
+C:\Users\Hubert\Desktop\SEM_4\c#\labb6\zad2_severe\obj\Debug\net7.0\refint\zad2_severe.dll
+C:\Users\Hubert\Desktop\SEM_4\c#\labb6\zad2_severe\obj\Debug\net7.0\zad2_severe.pdb
+C:\Users\Hubert\Desktop\SEM_4\c#\labb6\zad2_severe\obj\Debug\net7.0\zad2_severe.genruntimeconfig.cache
+C:\Users\Hubert\Desktop\SEM_4\c#\labb6\zad2_severe\obj\Debug\net7.0\ref\zad2_severe.dll
